@@ -1,0 +1,19 @@
+{
+  "name": "mentorai.server",
+  "version": "1.0.0",
+  "description": "server side function done here",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mentorai"
+  ],
+  "author": "JR",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
